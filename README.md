@@ -1,7 +1,5 @@
-## Aprendendo Flask
-***
+# Aprendendo Flask
 
-### tecnologias utilizadas:
-    python versao 13 ou superior
-    Flask(flamework utilizado via web)
-
+## Tecnologias utilizadas:
+- **Python** (versão 3.13 ou superior)
+- **Flask** (framework utilizado para o desenvolvimento web)
